@@ -151,6 +151,7 @@ static const char *colorname[] = {
 */
 
 /* Dracula theme */
+/*
 static const char *colorname[] = {
   "#000000",
   "#ff5555",
@@ -176,15 +177,23 @@ static const char *colorname[] = {
 	"#282a36", // background color
 	"#f8f8f2", // foreground and cursor color
 };
+*/
+
 
 /*
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
  */
+/*
 unsigned int defaultfg = 257;
 unsigned int defaultbg = 256;
 static unsigned int defaultcs = 257;
 static unsigned int defaultrcs = 257;
+*/
+
+
+//Pywal
+#include "/home/padawan/.cache/wal/colors-wal-st.h"
 
 /*
  * Default shape of cursor
