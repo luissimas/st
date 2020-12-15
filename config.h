@@ -125,7 +125,7 @@ static const char *colorname[] = {
 */
 
 /* Gruvbox theme */
-/*
+
 static const char *colorname[] = {
 	"#1d2021",
 	"#cc241d",
@@ -148,7 +148,7 @@ static const char *colorname[] = {
 	"#1d2021", // background color
 	"#fbf1c7", // foreground and cursor color
 };
-*/
+
 
 /* Dracula theme */
 /*
@@ -184,16 +184,16 @@ static const char *colorname[] = {
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
  */
-/*
+
 unsigned int defaultfg = 257;
 unsigned int defaultbg = 256;
 static unsigned int defaultcs = 257;
 static unsigned int defaultrcs = 257;
-*/
+
 
 
 //Pywal
-#include "/home/padawan/.cache/wal/colors-wal-st.h"
+//#include "/home/padawan/.cache/wal/colors-wal-st.h"
 
 /*
  * Default shape of cursor
